@@ -11,7 +11,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 #### You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
 
-## :hammer_and_wrench: Technologies & Tools
+## :hammer_and_wrench: Technology & Tools
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"><img src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" width="50">
