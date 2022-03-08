@@ -176,7 +176,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 <details>
 <summary>Voxel World Generator</summary>
   
-<br>Unity application that generates random voxel worlds (build with cube blocks). <br>
+<br>Unity application that generates random voxel worlds (built with cube blocks). <br>
   
 <b>Features:</b>
   - Random world generation with variety of blocks based on properties in code,
