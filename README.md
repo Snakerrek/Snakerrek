@@ -19,6 +19,8 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50">
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" width="50">
+
 ## :man_technologist: Projects
 
 ### Web development
