@@ -11,6 +11,8 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 #### You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+#### Or you can checkout my portfolio: www.tomaszkraszewski.dev
+
 ## :hammer_and_wrench: Technology & Tools
 
 
