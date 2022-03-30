@@ -27,7 +27,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Portfolio</summary>
-<br> My portfolio <br><br>
+<br> It was created using HTML, CSS, React, Typescript, Styled Components, and Three.js. The homepage and contact page were created using HTML Canvas. The 3D object is rendered using Three.js library. Part of the animation was done using pure CSS and part using Framer-motion library. E-mail contact is realized through EmailJS API. <br><br>
   
 <b>Technology:</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"><img src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/threejs/threejs-original-wordmark.svg" width="50">
@@ -43,7 +43,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Project tracker</summary>
-<br> Single-page react application that helps you track progress of your projects. <br><br>
+<br> A single-page application that helps you track the progress of your projects. It's written in React with the usage of HTML, CSS, Javascript, and Styled Components. It features adding multiple projects, and freely switching between them. Users can personalize every project by setting: Title, description, and background image. You can measure time spent on particular projects, as well as manage tasks that you have to perform. All data that is necessary is stored in local storage. <br><br>
   
 <b>Technology:</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"><img src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" width="50">
@@ -59,7 +59,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Coffee lovers</summary>
-<br> Single-page website for coffee lovers. <br><br>
+<br> A website that could be a landing page for a coffee brand. It is written with the usage of HTML, CSS, JS, and Bootstrap. It implements a mechanism that allows users to manage their brewing recipes on the page. All data is stored in local storage. <br><br>
   
 <b>Technology:</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="50">
@@ -75,7 +75,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Stacja diagnostyczna</summary>
-<br> A commercial application for vehicle inspection station. <br><br>
+<br> A commercial website for vehicle inspection station. The purpose of this site was to present the station, its employees, and the services it offers. It is written with the usage of HTML, CSS, JS. <br><br>
   
 <b>Technology:</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
@@ -91,7 +91,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Word counter</summary>
-<br> The application breaks down the given text into characters, words, sentences and paragraphs. Gives also approximate time of read. <br><br>
+<br> This application allows the user to write or paste in the text, then it is going to break down the given text into characters, words, sentences, and paragraphs. It also gives the approximate time that it will take to read the text with average reading speed. Application is written with the usage of HTML, CSS and Javascript. <br><br>
   
 <b>Technology:</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
@@ -108,7 +108,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Password generator / checker</summary>
-<br> The application generates passwords according to the parameters set by the user and can also check the password strength. <br><br>
+<br> This application offers two functionalities. The first is to generate a password taking into account your preferences such as the number of characters, the presence of capital letters, numbers, and symbols. The second is to check the strength of the password, it evaluates the password on a scale from 0 to 5 based on the content of the password (capital letters, symbols, length, numbers). It also calculates the approximate time needed to break the password using the brute-force method. <br><br>
   
 <b>Technology:</b><br><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
@@ -157,7 +157,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Flappit</summary>
-<br> Android game made in C# with Unity engine, simple arcade game based on original Flappy Bird. <br><br>
+<br> An android game made in C# on Unity engine, a simple arcade game based on the original Flappy Bird. It has the highest score system implemented and a progression system, 3 different levels that are unlocked during the game. It is released on Google Play store <br><br>
   
 <b>Technology:</b><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50">
@@ -176,7 +176,7 @@ I'm from Poland, currently studying Computer Science at Politechnika Częstochow
 
 <details>
 <summary>Spinning Shapes</summary>
-<br>Super Hexagon clone for Android. <br><br>
+<br>An android game made in C# on Unity engine, a simple clone of Super Hexagon. It has the highest score system implemented. It is released on Google Play store. <br><br>
   
 <b>Technology:</b><br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50">
