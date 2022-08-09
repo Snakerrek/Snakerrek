@@ -6,8 +6,8 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### My name is Tomek and I'm an aspiring Front-end Developer. 
-I'm from Poland, currently studying Computer Science at Politechnika Częstochowska. I'm passionate about game and web application development and am currently working on my own projects and actively looking for new opportunities.
+### My name is Tomek and I'm an Full-stack developer. 
+I'm from Poland, currently studying Computer Science at Politechnika Częstochowska. I'm passionate about game and web application development and am working as Full-stack Developer and on my own projects.
 
 #### You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
 
