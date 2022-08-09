@@ -1,7 +1,7 @@
 [1]: https://www.facebook.com/tomek.kraszewski.7
 [1.2]: https://imgur.com/OrrgK4k.png "facebook icon without padding"
 
-[2]: https://www.linkedin.com/in/tomasz-kraszewski/
+[2]: https://www.linkedin.com/in/tomaszkraszewski/
 [2.2]: https://imgur.com/TPRW1Z4.png "github icon without padding"
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
