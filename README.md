@@ -47,7 +47,8 @@ I’m a Full-stack developer at ISO Gruppe, where I work on applications with re
 <br>
   
 <b>Links:</b><br><br>
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50">](https://github.com/Snakerrek/book-app)
+Frontend: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50">](https://github.com/Snakerrek/book-app)<br>
+Backend: [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50">](https://github.com/Snakerrek/book-app-backend)<br>
 
 <b>Screenshots:</b><br>
   <img src="https://i.imgur.com/80bTXEM.jpeg" width="80.5%" height="auto">
