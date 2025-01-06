@@ -220,12 +220,3 @@ I’m a Full-stack developer at ISO Gruppe, where I work on applications with re
 <img src="https://user-images.githubusercontent.com/42809435/107558795-85b25980-6bdb-11eb-92f9-fd0628c0d605.png" width="40%" height="auto">
 <img src="https://user-images.githubusercontent.com/42809435/107558977-bdb99c80-6bdb-11eb-8645-619ff3d9d6f7.png" width="80.5%" height="auto">
 </details>
-
-## :chart_with_upwards_trend: GitHub Stats
-
-<a href="https://github.com/Snakerrek/Snakerrek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snakerrek&hide=,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Snakerrek/Snakerrek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snakerrek&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
