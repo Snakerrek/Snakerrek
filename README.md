@@ -52,10 +52,10 @@ I’m a Full-stack developer at ISO Gruppe, where I work on applications with re
 <b>Screenshots:</b><br>
   <img src="https://i.imgur.com/80bTXEM.jpeg" width="80.5%" height="auto">
   <img src="https://i.imgur.com/1kVvauN.png" width="40%" height="auto">
-  <img src="https://i.imgur.com/MJv0rEj.png" width="40%" height="auto">
   <img src="https://i.imgur.com/XXbfFBb.png" width="40%" height="auto">
+  <img src="https://i.imgur.com/MJv0rEj.png" width="40%" height="auto">
   <img src="https://i.imgur.com/KLuViDL.png" width="40%" height="auto">
-  <img src="https://i.imgur.com/2aNGGSm.png" width="40%" height="auto">
+  <img src="https://i.imgur.com/2aNGGSm.png" width="80.5%" height="auto">
 </details>
 
 <details>
