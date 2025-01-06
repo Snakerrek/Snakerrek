@@ -6,8 +6,8 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### My name is Tomek and I'm an Full-stack developer with Bachelor's degree in CS. 
-I'm from Poland, currently studying Masters in Computer Science at WSB Merito. I'm passionate about game and web application development and am working as Full-stack Developer.
+### My name is Tomek and I'm an Full-stack developer. 
+I’m a Full-stack developer at ISO Gruppe, where I work on applications with reservation systems for clients such as Legoland, YelloSun, and various travel agencies. I hold an engineering degree and am currently pursuing a master’s degree in Computer Science at WSB Merito. My passion lies in web application development, and I enjoy creating innovative solutions that enhance user experiences.
 
 #### You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][2.2]][2].
 
