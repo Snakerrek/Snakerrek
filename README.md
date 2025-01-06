@@ -18,6 +18,7 @@ I’m a Full-stack developer at ISO Gruppe, where I work on applications with re
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"><img src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" width="50"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="50">
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-plain.svg" width="50">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50">
 
